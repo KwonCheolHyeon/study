@@ -1,2 +1,5 @@
 ﻿  1018.cpp
+C:\Directx2D\study\backjoon\backjoon\1018.cpp(8,6): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  backjoon.cpp
+  코드를 생성하고 있습니다...
   backjoon.vcxproj -> C:\Directx2D\study\backjoon\x64\Debug\backjoon.exe
