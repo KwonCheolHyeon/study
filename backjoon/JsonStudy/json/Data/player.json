@@ -1,0 +1,55 @@
+{
+    "groups": [
+      {
+        "groupName": "Group Player",
+        "players": [
+          {
+            "name": "Player 1",
+            "age": 30,
+            "Level": 6,
+            "stats": {
+              "health": 100,
+              "attack": 50,
+              "defense": 30
+            }
+          },
+          {
+            "name": "Player 2",
+            "age": 25,
+            "Level": 9,
+            "stats": {
+              "health": 120,
+              "attack": 40,
+              "defense": 40
+            }
+          }
+        ]
+      },
+
+      {
+        "groupName": "Group Monster",
+        "monsters": [
+          {
+            "name": "Monster 1",
+            "Level": 5,
+            "stats": {
+              "health": 90,
+              "attack": 60,
+              "defense": 25,
+              "exp" : 50
+            }
+          },
+          {
+            "name": "Monster 2",
+            "Level": 10,
+            "stats": {
+              "health": 110,
+              "attack": 45,
+              "defense": 35,
+              "exp" : 50
+            }
+          }
+        ]
+      }
+    ]
+  }
