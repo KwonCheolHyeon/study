@@ -30,11 +30,12 @@ int main()
     hint.sin_family = AF_INET;
     hint.sin_port = htons(54000);
     hint.sin_addr.S_un.S_addr = INADDR_ANY;
+    
 
     bind(listening, (sockaddr*)&hint, sizeof(hint));
 
     // Tell Winsock the socket is for listening
-    listen(listening, SOMAXCONN);
+    listen(listening, SOMAXCONN);//들어오면 자동으로 정렬해놓음
 
     ///여기 까지가 서버가 준비해야할 것들 
 

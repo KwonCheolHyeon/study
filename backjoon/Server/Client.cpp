@@ -28,7 +28,7 @@ int main()
     // Connect to the server
     sockaddr_in hint;
     hint.sin_family = AF_INET;
-    hint.sin_port = htons(54000);
+    hint.sin_port = htons(54000);// 호스트의 포트번와 같아야한다.
     inet_pton(AF_INET, "127.0.0.1", &(hint.sin_addr)); // Replace with the server's IP address
 
     int connResult = connect(sock, (sockaddr*)&hint, sizeof(hint));

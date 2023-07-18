@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Function.cpp" />
+    <ClCompile Include="Lambda.cpp" />
+    <ClCompile Include="Operator.cpp" />
     <ClCompile Include="Overriding.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
