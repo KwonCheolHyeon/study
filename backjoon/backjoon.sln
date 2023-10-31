@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Term_c++", "Term_c++\Term_c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebugProgram", "DebugProgram\DebugProgram.vcxproj", "{DDA2B5DC-8D1A-4990-9822-0FE3985E3DAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructure", "DataStructure\DataStructure.vcxproj", "{C9985F68-4611-4BE3-A73C-EE6385D17B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{DDA2B5DC-8D1A-4990-9822-0FE3985E3DAD}.Release|x64.Build.0 = Release|x64
 		{DDA2B5DC-8D1A-4990-9822-0FE3985E3DAD}.Release|x86.ActiveCfg = Release|Win32
 		{DDA2B5DC-8D1A-4990-9822-0FE3985E3DAD}.Release|x86.Build.0 = Release|Win32
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Debug|x64.ActiveCfg = Debug|x64
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Debug|x64.Build.0 = Debug|x64
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Debug|x86.Build.0 = Debug|Win32
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Release|x64.ActiveCfg = Release|x64
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Release|x64.Build.0 = Release|x64
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Release|x86.ActiveCfg = Release|Win32
+		{C9985F68-4611-4BE3-A73C-EE6385D17B1B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

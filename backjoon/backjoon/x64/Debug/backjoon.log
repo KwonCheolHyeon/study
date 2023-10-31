@@ -1,5 +1,26 @@
 ﻿  1018.cpp
-C:\Directx2D\study\backjoon\backjoon\1018.cpp(8,6): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
   backjoon.cpp
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): error C2182: 'compareCommend': 이 'void' 사용은 유효하지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,21): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,28): error C2146: 구문 오류: ')'이(가) '_com' 식별자 앞에 없습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,6): error C2182: 'compareCommend': 이 'void' 사용은 유효하지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,6): error C2374: 'compareCommend': 재정의. 여러 번 초기화했습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): message : 'compareCommend' 선언을 참조하십시오.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,21): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,28): error C2146: 구문 오류: ')'이(가) '_com' 식별자 앞에 없습니다.
+  Study10866.cpp
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): error C2182: 'compareCommend': 이 'void' 사용은 유효하지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,21): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,28): error C2146: 구문 오류: ')'이(가) '_com' 식별자 앞에 없습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,6): error C2182: 'compareCommend': 이 'void' 사용은 유효하지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,6): error C2374: 'compareCommend': 재정의. 여러 번 초기화했습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): message : 'compareCommend' 선언을 참조하십시오.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,21): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(8,28): error C2146: 구문 오류: ')'이(가) '_com' 식별자 앞에 없습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.cpp(33,5): error C2064: 항은 2개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.cpp(37,5): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.cpp(45,6): error C2365: 'compareCommend': 재정의: 이전 정의는 '데이터 변수'입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): message : 'compareCommend' 선언을 참조하십시오.
+C:\Directx2D\study\backjoon\backjoon\Study10866.cpp(88,6): error C2365: 'compareCommend': 재정의: 이전 정의는 '데이터 변수'입니다.
+C:\Directx2D\study\backjoon\backjoon\Study10866.h(7,6): message : 'compareCommend' 선언을 참조하십시오.
   코드를 생성하고 있습니다...
-  backjoon.vcxproj -> C:\Directx2D\study\backjoon\x64\Debug\backjoon.exe

@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="1018.cpp" />
     <ClCompile Include="backjoon.cpp" />
+    <ClCompile Include="Study10866.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1018.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="Study10866.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

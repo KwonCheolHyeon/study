@@ -1,4 +1,2 @@
 ﻿  DebugProgram.cpp
-DebugProgram.obj : error LNK2019: "public: __cdecl Player::Player(void)" (??0Player@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
-DebugProgram.obj : error LNK2019: "public: __cdecl Player::~Player(void)" (??1Player@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Directx2D\study\backjoon\x64\Debug\DebugProgram.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
+  DebugProgram.vcxproj -> C:\Directx2D\study\backjoon\x64\Debug\DebugProgram.exe

@@ -131,6 +131,8 @@
     <ClCompile Include="Lambda.cpp" />
     <ClCompile Include="Operator.cpp" />
     <ClCompile Include="Overriding.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="Shared_ptr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

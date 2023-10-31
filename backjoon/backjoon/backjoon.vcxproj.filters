@@ -21,5 +21,19 @@
     <ClCompile Include="1018.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Study10866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="1018.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Study10866.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
