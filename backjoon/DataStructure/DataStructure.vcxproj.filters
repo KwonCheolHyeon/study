@@ -21,12 +21,18 @@
     <ClInclude Include="LinearSearch.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DSMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="LinearSearch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

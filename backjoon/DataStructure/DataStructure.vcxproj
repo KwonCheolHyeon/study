@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="DSMain.h" />
     <ClInclude Include="LinearSearch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="DSMain.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
   </ItemGroup>
