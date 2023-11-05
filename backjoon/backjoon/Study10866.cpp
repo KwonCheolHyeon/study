@@ -28,7 +28,7 @@ std::map<std::string, Command> commandMap = {
 
 void compareCommend(const std::string& _com, std::deque<int>& dq, int _index = -1);
 
-int main() {
+int Run() {
     int N = 0;
     std::cin >> N;
     std::cin.ignore(); // 줄 바꿈 문자 소비
