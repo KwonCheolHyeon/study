@@ -39,7 +39,7 @@ void compareCommend(const std::string& _com)
 }
 
 
-int Run() 
+int Run2() 
 {
     int N = 0;
     std::cin >> N;
