@@ -5,5 +5,5 @@
 void main() 
 {
 	
-	bs->Run();
+	fto->Run();
 }

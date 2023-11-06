@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="DSMain.h" />
+    <ClInclude Include="Factorial.h" />
     <ClInclude Include="LinearSearch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="DSMain.cpp" />
+    <ClCompile Include="Factorial.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
