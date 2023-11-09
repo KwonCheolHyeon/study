@@ -27,7 +27,7 @@ void compare(std::vector<int> _a, std::vector<int> _b)
 
 }
 
-int main()
+int Run3()
 {
 	int N,M;
 
